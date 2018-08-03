@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "838830106083",
+    "firebase_url": "https://smtalk-bc50d.firebaseio.com",
+    "project_id": "smtalk-bc50d",
+    "storage_bucket": "smtalk-bc50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838830106083:android:87e9566dcb71090c",
+        "android_client_info": {
+          "package_name": "com.potenbro.osangmin.smtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838830106083-iihqsaks0k8p4doobv66na1e7nb9r2ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.potenbro.osangmin.smtalk",
+            "certificate_hash": "3255b00789b7921fd1ce873b7dec499d0c540f32"
+          }
+        },
+        {
+          "client_id": "838830106083-tefo797opb1ls5mc7m72o679tdbebcd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTeK1NXZWXWV25SvRdl_EYFo8e37e_qI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838830106083-tefo797opb1ls5mc7m72o679tdbebcd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
